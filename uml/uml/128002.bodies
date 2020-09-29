@@ -1,0 +1,8 @@
+class Building
+!!!128002.cpp!!!	MakeBuilding(in choice : int) : Building
+    if (choice == 1)
+        return new House;
+    else if (choice == 2)
+        return new Castle;
+    else
+        return new Farm;

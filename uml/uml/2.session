@@ -1,0 +1,12 @@
+window_sizes 3150 1633 787 2357 1517 64
+cleanlooks_style
+diagrams
+  active  classdiagram_ref 128002 // class
+    1885 1213 100 A4 0 0
+end
+show_stereotypes
+selected class_ref 128386 // Farm
+open
+  classview_ref 128002 // dp-creational-factory-method
+end
+end
