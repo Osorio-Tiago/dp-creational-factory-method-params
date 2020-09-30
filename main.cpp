@@ -20,6 +20,8 @@ public:
  * Inherited from Building
  */
 class House: public Building {
+private:
+    int numberDoors;
 public:
     std::string processMethod() override {
         return "Create a beautiful House";
